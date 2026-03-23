@@ -16,7 +16,7 @@ const ALL_CITIES = [
   { id: 3, name: 'Taounat', image: taounatImg },
   { id: 4, name: 'Casablanca', image: casablancaImg },
   { id: 5, name: 'Dakhla', image: dakhlaImg },
-  { id: 6, name: 'fes', image: fesImg },
+  { id: 6, name: 'Fes', image: fesImg },
   { id: 7, name: 'Allemagne', image: allemagnImg },
 ];
 
